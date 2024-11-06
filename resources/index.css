@@ -1,0 +1,213 @@
+.main {
+    font-family: "Oswald", serif;
+    font-size: 30px;
+    font-weight: 900;
+    font-style: normal;
+    letter-spacing: 0.9em;
+    text-transform: uppercase;
+    text-align: center;
+    color: #FF4500;
+    background-color: #F5FFFA;
+    width: 81%;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  
+  .block {
+    border: 1px solid #000080;
+    padding: 20px 10px;
+    margin: 20px auto;
+    width: 80%;
+  }
+  
+  .block h2 {
+    margin-top: 0px; 
+  }
+  
+  .colour-block {
+    text-align: center
+  }
+  
+  .colour-box {
+    display: inline-block;
+    width: 24%;
+    height: 60px;
+    line-height: 0.3em;
+    margin: 15px 1px;
+  }
+  
+  .mint-cream {
+    background-color: #F5FFFA;
+  }
+  
+  .orange-red {
+    background-color: #FF4500;
+  }
+  
+  .midnight-blue {
+    background-color: #000080;
+  }
+  
+  .old-lace {
+    background-color: #FDF5E6;
+  }
+  
+  .lacetext {
+    color: #FDF5E6;
+  }
+  
+  .minttext {
+    color: #F5FFFA;
+  }
+  
+  .font-group {
+    display: inline-block;
+    width: 48%;
+    vertical-align: top;
+  }
+  
+  .font-name {
+    font-size: 16px;
+    font-weight: 700;
+    color: #FF4500;
+  }
+  
+  .regular {
+    font-style: normal;
+  }
+  
+  .bold {
+    font-weight: bold;
+  }
+  
+  .semibold600 {
+    font-weight: 600;
+  }
+  
+  .italic {
+    font-style: italic;
+  }
+  
+  .dm-sans {
+    font-family: "DM Sans", serif;
+  }
+  
+  .oswald {
+    font-family: "Oswald", serif;
+  }
+  
+  .raleway {
+    font-family: "Raleway", serif;
+  }
+  
+  .montseratt {
+    font-family: "Montserrat", serif;
+  }
+  
+  .text-block {
+    display: inline-block;
+    width: 48%;
+  }
+  
+  h1 {
+    font-family: "Oswald", serif;
+    font-size: 30px;
+    font-weight: 700;
+    color: #FF4500;
+  }
+  
+  h2 {
+    font-family: "Oswald", serif;
+    font-size: 24px;
+    font-weight: 600;
+    color: #000080;
+  }
+  
+  h3 {
+    font-family: "DM Sans", serif;
+    font-size: 16px;
+    font-weight: 700;
+    color: #FF4500;
+  }
+  
+  p {
+    font-family: "DM Sans", serif;
+    font-size: 14px;
+    font-weight: 400;
+    color: #000080;
+  }
+  
+  .button-block {
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 0.2em;
+  }
+  
+  .button-box {
+    display: inline-block;
+    width: 20%;
+    margin: 10px 10px;
+    border-radius: 4px; 
+  }
+  
+  .button-box.orange-red a {
+    text-decoration: none;
+    color: #FDF5E6;
+  }
+  
+  .button-box.orange-red:hover a {
+    text-decoration: none;
+    color: #FF4500;
+  }
+  
+  .button-box.orange-red:hover {
+    text-decoration: none;
+    background-color: #FDF5E6;
+    border: 1px solid #FF4500;
+    border-radius: 4px;
+  }
+  
+  .button-box.midnight-blue a {
+    text-decoration: none;
+    color: #F5FFFA;
+  }
+  
+  .button-box.midnight-blue:hover a {
+    text-decoration: none;
+    color: #191970;
+  }
+  
+  .button-box.midnight-blue:hover {
+    text-decoration: none;
+    background-color: #F5FFFA;
+    border: 1px solid #000080;
+    border-radius: 4px;
+  }
+  
+  .button-box.old-lace {
+    border: 1px solid #000080;
+    border-radius: 4px;
+  }
+  
+  .button-box.old-lace a {
+    text-decoration: none;
+    color: #000080;
+  }
+  
+  .button-box.old-lace:hover a {
+    text-decoration: none;
+    color: #FDF5E6;
+  }
+  
+  .button-box.old-lace:hover {
+    text-decoration: none;
+    background-color: #000080;
+  }
+  
+  
+  
+  
+  
+  
+  
+  
